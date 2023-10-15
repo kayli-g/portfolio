@@ -2,7 +2,7 @@
 
 Hi!
 
-This repo is to showcase my projects, skills, and resume.
+This repo is to showcase some of my projects.
 
 About me:
 
