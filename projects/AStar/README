@@ -1,0 +1,7 @@
+Program that uses the A* algorithm to generate a path. Allows user to choose
+a starting location and a goal location using x and y coordinates. Uses the
+Manhattan method for calculating the heuristic.
+
+The output is an updating 15x15 2D, where a 'P' goes step-by-step along the
+shortest path. In the grid, an 'x' is an unpathable node, and a '_' is 
+an empty node. 
