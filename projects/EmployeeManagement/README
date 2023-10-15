@@ -1,1 +1,3 @@
-
+Represents a management system for employees. User can
+add an employee, remove an employee, edit information,
+view all, and see total pay. Run using the "Main" class.
